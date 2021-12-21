@@ -1,0 +1,23 @@
+ --------------------------------- START GIT COURSE ------------------------------------
+
+ For working with Git we use System Console, Exampel; CMD, npm, terminal of vsc. e.t.c
+ 
+  ------- Basic commands; 
+ 
+ . Git init (start control versions in directory)
+ . git add <file name> (add files for modified)
+ . git status (look at the status of the files)
+ . git commit (move files from staging area to repository)
+ . git push (upload files to remote repository)
+ . git pull (they give me other people's changes)
+ . git clone (clone existing repository)
+
+
+ Git have three states:
+ 
+ . working directory (where we working with our files);
+ . staging area (where will be, our files modified, waiting to upload to the repository);
+ . repository (where it will be, our complete code, first version of your application);
+
+ to ignore folders or files we use ".gitignore" in our editor, inside ".gitignore" we write the names of the files or folders that we want to ignore
+
