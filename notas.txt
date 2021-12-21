@@ -21,3 +21,12 @@
 
  to ignore folders or files we use ".gitignore" in our editor, inside ".gitignore" we write the names of the files or folders that we want to ignore
 
+for to create alternative version of our code, we create a new branch in git:
+
+    for default, our project will be at branch (master)
+
+. git branch (show me all branchs of my project)
+. git branch <name of new branch> (we created new branch)
+. git checkout <name of branch> (we swtich at branch)
+
+ for watch differences come in old file and file recently modified, we use in git "git diff <name file>"  
